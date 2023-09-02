@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0xjenna
+- 👀 I’m interested in website development
+- 🌱 I’m currently learning JavaScript
